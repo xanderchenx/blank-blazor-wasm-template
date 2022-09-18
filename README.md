@@ -1,2 +1,5 @@
 # blank-blazor-wasm-template
-remove bootstrap
+
+just remove bootstrap.
+
+this is a visual studio template, you need import to use.
